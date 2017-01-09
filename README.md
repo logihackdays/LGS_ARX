@@ -14,8 +14,13 @@ The following files are included:
 The Logitech|G Arx Control SDK can be used on the following platforms:
 
 ● Windows Vista (32-bit and 64-bit)
+
 ● Windows 7 (32-bit and 64-bit)
+
 ● Windows 8 (32-bit and 64-bit)
 
+
 Logitech Gaming Software (8.52 or higher) needs to be running in order to use this SDK.
+
 The SDK is a Windows based API for C/C++ programmers. The applet layout is based on web programming, so a basic knowledge of HTML/JavaScript/CSS is also needed.
+
